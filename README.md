@@ -14,7 +14,7 @@ My name is Do Van Thinh. I'm a programmer, majoring in software technology. I am
 </a>    
 <a href="https://github.com/thinh0311/SpringAPI">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinh0311&repo=SpringAPI" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinh0311&repo=SpringAPI&theme=merko" />
 </a>
 
 <a href="https://github.com/thinh0311/EcommerceAdmin">
