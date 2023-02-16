@@ -28,9 +28,9 @@ My name is Do Van Thinh. I'm a programmer, majoring in software technology. I am
 
 <a href="https://github.com/thinh0311/StripePayment">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinh0311&repo=StripePayment&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinh0311&repo=StripePayment&theme=onedark" />
 </a>    
 <a href="https://github.com/thinh0311/ThiTracNghiem">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinh0311&repo=ThiTracNghiem&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thinh0311&repo=ThiTracNghiem&theme=merko" />
 </a>
