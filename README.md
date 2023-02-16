@@ -6,7 +6,7 @@ My name is Do Van Thinh. I'm a programmer, majoring in software technology. I am
 
 
 
-![Thinh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Thinh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thinh0311&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/thinh0311/EcommerceApp">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
